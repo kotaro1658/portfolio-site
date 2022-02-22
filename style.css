@@ -29,13 +29,11 @@ h2{
 }
 
 .background{
+  background-color: #F072F0;
   background-size: cover;
   background-attachment: fixed;
 }
 
-main {
-  color:white;
-}
 /* header */
 header{
   width:100%;
@@ -170,7 +168,6 @@ header a{
 /* footer */
 
 footer {
-  color: #fff;
   font-size: 1rem;
   padding: 10px 20px;
   text-align: center;
