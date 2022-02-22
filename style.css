@@ -29,7 +29,6 @@ h2{
 }
 
 .background{
-  background-image: url(/images/web_detail_thumb.jpeg);
   background-size: cover;
   background-attachment: fixed;
 }
